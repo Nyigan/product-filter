@@ -76,7 +76,7 @@ const displayProducts = (filteredProducts) => {
 
 displayProducts(data);
 
-searchInput.addEventListener("keyup",(e) => {
+searchInput.addEventListener("keyup", (e) => {
    const value = e.target.value.toLowerCase();
 
    if (value) {
