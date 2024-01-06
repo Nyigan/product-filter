@@ -1,3 +1,3 @@
 # product-filter app
 
-JavaScript product filter app
+Product filter app with categories
